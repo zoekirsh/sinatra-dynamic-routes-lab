@@ -22,4 +22,3 @@ You can take a look at [this list](http://www.degraeve.com/reference/urlencoding
 
 5. Create a dynamic route at `get '/:operation/:number1/:number2'` that accepts an operation (add, subtract, multiply or divide) and performs the operation on the two numbers provided, returning a `String`. For example, going to `/add/1/2` should render `3` as a `String`.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-dynamic-routes-lab' title='Sinatra Dynamic Routes Lab'>Sinatra Dynamic Routes Lab</a> on Learn.co and start learning to code for free.</p>
